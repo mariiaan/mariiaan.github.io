@@ -3,11 +3,6 @@ var index = 0;
 var state = 0;
 var its = 0;
 
-setInterval(() => {
-
-
-}, 100);
-
 function update() {
     if (state == 0) {
         document.getElementById("aologo").innerText += startText[index++];
