@@ -1,4 +1,10 @@
-.Main {
-    background-color: rgb(15, 15, 15);
-    font-family: Calibri;
+.vcent
+{
+    height: 100%;
+    border: none;
+    padding: 0 10px;
+    white-space:normal;
+    word-break:break-word;
+    display:flex;
+    align-items:center;
 }
