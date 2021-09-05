@@ -1,7 +1,9 @@
-.center
+.nicetext
 {
     position: absolute;
     top: 50%;
-    left: 5%;
+    left: 1%;
     color: rgb(0 148 255);
+    font-family: Roboto, sans-serif;
+    font-size: 80px;
 }
